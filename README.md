@@ -114,7 +114,6 @@ END
 ### OUTPUT IMAGE FROM MASM SOFTWARE :
 ![WhatsApp Image 2025-09-22 at 08 38 30_3532c188](https://github.com/user-attachments/assets/3d1b9ca2-3ed9-4009-98c9-daa1f99e0d4c)
 
-#### Manual Calculations
 ## 2. SUBTRACTION
 
 #### Algorithm
@@ -392,6 +391,7 @@ END
 |     2004                |      01                  |
 |     2005                |      00                  |
 ### MANUAL CALCULATIONS :
+
 
 ### OUTPUT FROM MASM SOFTWARE :
 ![WhatsApp Image 2025-09-22 at 09 27 18_30ecfa80](https://github.com/user-attachments/assets/85d47e9f-81ec-433f-a319-1c24cf95ebb9)
